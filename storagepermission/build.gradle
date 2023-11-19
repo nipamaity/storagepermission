@@ -76,13 +76,13 @@ dependencies {
 
 //===============================
 group = 'com.github.nipamaity'
-version = '1.0.1'
+version = '1.0.2'
 publishing {
     publications {
         maven(MavenPublication) {
             groupId = 'com.github.nipamaity'
             artifactId = 'storagepermission'
-            version = "1.0.1"
+            version = "1.0.2"
             pom {
                 description = 'First release'
             }
