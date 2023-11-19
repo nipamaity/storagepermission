@@ -80,7 +80,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.nipamaity'
             artifactId = 'storagepermission'
-            version = "1.0.0"
+            version = "1.0.1"
             pom {
                 description = 'First release'
             }
